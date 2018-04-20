@@ -1,0 +1,6 @@
+logs
+vendor
+build
+composer.lock
+composer.phar
+*.eslintrc*
