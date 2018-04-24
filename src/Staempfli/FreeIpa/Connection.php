@@ -54,12 +54,6 @@ class Connection
         ]);
     }
 
-    public function get(string $path, array $params = [])
-    {
-        $this->response = $this->client->get($path, $params);
-        return $this;
-    }
-
     public function post(string $path, array $params = [])
     {
         $this->response = $this->client->post($path, $params);

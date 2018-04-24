@@ -1,0 +1,22 @@
+language:
+  - php
+
+sudo: false
+
+php:
+  - 7.0
+  - 7.1
+  - 7.2
+
+node_js:
+  - 6
+
+before_install:
+  - ./tests/server/start_server.sh
+  - sleep 5
+
+install:
+  - composer install
+
+script:
+  - vendor/bin/phpunit

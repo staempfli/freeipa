@@ -4,3 +4,5 @@ build
 composer.lock
 composer.phar
 *.eslintrc*
+.DS_Store
+.php_cs.cache
