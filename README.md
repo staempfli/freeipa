@@ -1,6 +1,8 @@
 # FreeIpa
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fab12164ab0647f68b9dbbfeb2c23180)](https://www.codacy.com/app/Staempfli/freeipa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=staempfli/freeipa&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/staempfli/freeipa.svg?branch=develop)](https://travis-ci.org/staempfli/freeipa)
+[![Maintainability](https://api.codeclimate.com/v1/badges/da5cfc52455bf7a6be14/maintainability)](https://codeclimate.com/github/staempfli/freeipa/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/da5cfc52455bf7a6be14/test_coverage)](https://codeclimate.com/github/staempfli/freeipa/test_coverage)
 
 A PHP library to connect and use the FreeIPA / Red Hat Identity Management
 
