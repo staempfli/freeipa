@@ -1,5 +1,7 @@
 # FreeIpa
 
+[![Build Status](https://travis-ci.org/staempfli/freeipa.svg?branch=develop)](https://travis-ci.org/staempfli/freeipa)
+
 A PHP library to connect and use the FreeIPA / Red Hat Identity Management
 
 Requirements
