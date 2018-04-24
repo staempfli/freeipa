@@ -1,4 +1,8 @@
 <?php
+/**
+ * @copyright Copyright © 2018 Stämpfli AG. All rights reserved.
+ * @author Marcel Hauri <marcel.hauri@staempfli.com>
+ */
 
 namespace Staempfli\Eyebase;
 
@@ -6,6 +10,10 @@ use PHPUnit\Framework\TestCase;
 use Staempfli\FreeIpa\Client;
 use Staempfli\FreeIpa\Exception\InvalidLoginException;
 
+/**
+ * Class ClientTest
+ * @package Staempfli\Eyebase
+ */
 class ClientTest extends TestCase
 {
     /**
